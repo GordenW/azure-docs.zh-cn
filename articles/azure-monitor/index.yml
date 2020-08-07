@@ -19,7 +19,7 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: 说明是 Azure Monitor？
+    - text: 什么是 Azure Monitor？
       url: overview.md
     - text: 什么是 Azure Monitor 日志/Log Analytics？
       url: platform/data-platform-logs.md
